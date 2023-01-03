@@ -45,6 +45,7 @@
 <img align="left" alt="Ethers.js" width="30px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" />
 <img align="left" alt="Web3.js" width="30px" src="https://raw.githubusercontent.com/web3/web3.js/1.x/assets/logo/web3js.jpg" />
 <img align="left" alt="Metamask" width="45px" src="https://logolook.net/wp-content/uploads/2022/05/Metamask-Emblem.png" />
+<br />
 <img align="left" alt="Ganache" width="25px" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" />
 <img align="left" alt="Truffle" width="26px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" />
 <img align="left" alt="openzeppelin" width="26px" src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" />
