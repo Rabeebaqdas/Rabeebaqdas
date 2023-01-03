@@ -28,7 +28,7 @@
 ---
 
 ### Languages and Tools:
-
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -58,7 +58,7 @@
 <img align="left" alt="IPFS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" />
 <img align="left" alt="Infura" width="30px" src="https://s3.amazonaws.com/infura-blog-content/2020/01/infura_logo_black.png" />
 <img align="left" alt="Alchemy" width="30px" src="https://avatars.githubusercontent.com/u/7953323?s=280&v=4" />
-
+</div>
 <br />
 <br />
 <br />
