@@ -1,4 +1,3 @@
-
 ### Hey there, I'm Rabeeb Aqdas <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
 <p align="center">
@@ -29,6 +28,7 @@
 
 ### Languages and Tools:
 
+<div style="display: flex; flex-wrap: wrap; gap: 1em">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -58,6 +58,7 @@
 <img align="left" alt="IPFS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" />
 <img align="left" alt="Infura" width="30px" src="https://s3.amazonaws.com/infura-blog-content/2020/01/infura_logo_black.png" />
 <img align="left" alt="Alchemy" width="30px" src="https://avatars.githubusercontent.com/u/7953323?s=280&v=4" />
+</div>
 
 <br />
 <br />
@@ -70,15 +71,15 @@
 
 ### :zap: Github Stats
 
- [![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight)](https://github.com/rabeebaqdas/github-readme-stats)
+[![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight)](https://github.com/rabeebaqdas/github-readme-stats)
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/rabeebaqdas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/rabeebaqdas/github-readme-stats)
 <!-- </details> -->
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🗣 Commited on [#ab2c519](https://github.com/Rabeebaqdas/Liquidity-Pool/) in https://github.com/Rabeebaqdas/Liquidity-Pool
 
