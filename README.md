@@ -28,7 +28,7 @@
 
 ### Languages and Tools:
 
-<div align="justify">
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -49,7 +49,6 @@
 <img align="left" alt="Truffle" width="26px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" />
 <img align="left" alt="openzeppelin" width="26px" src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" />
 <img align="left" alt="Solidity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
-
 <img align="left" alt="Remix" width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
 <img align="left" alt="Chai" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgMVV1bmcm8dCSPE6Siajk-Uz2akHCiR9YWOv39XTd3QCfh88_F8W-MnZSgW2AlHSiP4&usqp=CAU" />
 <img align="left" alt="Mocha" width="30px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
