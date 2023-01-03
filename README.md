@@ -45,7 +45,6 @@
 <img align="left" alt="Ethers.js" width="30px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" />
 <img align="left" alt="Web3.js" width="30px" src="https://raw.githubusercontent.com/web3/web3.js/1.x/assets/logo/web3js.jpg" />
 <img align="left" alt="Metamask" width="45px" src="https://logolook.net/wp-content/uploads/2022/05/Metamask-Emblem.png" />
-<br />
 <img align="left" alt="Ganache" width="25px" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" />
 <img align="left" alt="Truffle" width="26px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" />
 <img align="left" alt="openzeppelin" width="26px" src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" />
@@ -81,15 +80,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commited on [#2c4c34c](https://github.com/muhammadsalif/Covid-19-Tracker-App-React/commit/2c4c34c4beb7c8ac7924e1977f567424ae1b2a99) in [https://github.com/muhammadsalif/Covid-19-Tracker-App-React](https://github.com/muhammadsalif/Covid-19-Tracker-App-React)
+1. 🗣 Commited on [#ab2c519](https://github.com/Rabeebaqdas/Liquidity-Pool/) in https://github.com/Rabeebaqdas/Liquidity-Pool
 
-2. 🗣 Commited on [#e108ecf](https://github.com/muhammadsalif/ECP-Business-App-React/commit/e108ecfa0dd8a2661e0bee738723f271286f94f3) in [https://github.com/muhammadsalif/ECP-Business-App-React](https://github.com/muhammadsalif/ECP-Business-App-React)
+2. 🗣 Commited on [#361cb77](https://github.com/Rabeebaqdas/NFT-Marketplace/) in https://github.com/Rabeebaqdas/NFT-Marketplace](https://github.com/Rabeebaqdas/NFT-Marketplace
 
-3. 💪 2000+ contribution in the last year | Growing faster 🚀.
-<!-- 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-6. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
 </details>
