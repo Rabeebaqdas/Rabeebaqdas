@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning everything 😃
 - 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
+- 📞 contact-no: reach me at +92112354067
 
 
 ---
