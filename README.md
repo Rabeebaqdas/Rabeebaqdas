@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Blockchain Developer
 - 🌱 I’m currently learning everything 😃
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
 - 📞 Contact: reach me at +92112354067
 
