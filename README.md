@@ -29,39 +29,18 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-wrap:wrap;">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node" width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Mongodb" width="60px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Hardhat" width="30px" src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" />
-<img align="left" alt="Ethers.js" width="30px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" />
-<img align="left" alt="Web3.js" width="30px" src="https://raw.githubusercontent.com/web3/web3.js/1.x/assets/logo/web3js.jpg" />
-<img align="left" alt="Metamask" width="45px" src="https://logolook.net/wp-content/uploads/2022/05/Metamask-Emblem.png" />
-<img align="left" alt="Ganache" width="25px" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" />
-<img align="left" alt="Truffle" width="26px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" />
-<img align="left" alt="openzeppelin" width="26px" src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" />
-<img align="left" alt="Solidity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
-<img align="left" alt="Remix" width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-<img align="left" alt="Chai" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgMVV1bmcm8dCSPE6Siajk-Uz2akHCiR9YWOv39XTd3QCfh88_F8W-MnZSgW2AlHSiP4&usqp=CAU" />
-<img align="left" alt="Mocha" width="30px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
-<img align="left" alt="Moralis" width="30px" src="https://logosandtypes.com/wp-content/uploads/2022/03/Moralis.png" />
-<img align="left" alt="Pinanta" width="30px" src="https://app.pinata.cloud/Pinnie.svg" />
-<img align="left" alt="IPFS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" />
-<img align="left" alt="Infura" width="30px" src="https://s3.amazonaws.com/infura-blog-content/2020/01/infura_logo_black.png" />
-<img align="left" alt="Alchemy" width="30px" src="https://avatars.githubusercontent.com/u/7953323?s=280&v=4" />
-</div>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 
 <br />
 <br />
+
+### Blockchain Stack:
+
+ <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="solidity" width="40" height="40"/> </a> <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> </a> <a href="https://trufflesuit.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a> <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-CDF7095A43-seeklogo.com.png" alt="chainlink" width="40" height="40"/> </a> <a href="https://polygon.technology" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="polygon" width="40" height="40"/> </a> <a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/ethereum-logo-DE26DD608D-seeklogo.com.png" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://metamask.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" alt="metamask" width="40" height="40"/> </a> <a href="https://opensea.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png" alt="opensea" width="40" height="40"/> </a> <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40"/> </a> <a href="https://www.binance.com/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-97F9D55608-seeklogo.com.png" alt="binance" width="40" height="40"/> </a> <a href="https://www.rainbowkit.com/" target="_blank" rel="noreferrer"> <img src="https://www.rainbowkit.com/rainbow.svg" alt="rainbowkit" width="40" height="40"/> </a> <a href="https://www.wagmi.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg" alt="wagmi" width="40" height="40"/> </a> <a href="https://walletconnect.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" alt="walletConnect" width="40" height="40"/> </a> <a href="https://uniswap.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/36115574?s=200&v=4" alt="uniswap" width="40" height="40"/> </a> <a href="https://sushi.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/72222929?s=200&v=4" alt="sushiswap" width="40" height="40"/> </a> <a href="https://pancakeswap.finance" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/71247426?s=200&v=4" alt="pancakeswap" width="40" height="40"/> </a>    </p>
+
+
+
 <br />
 
 ---
@@ -71,10 +50,11 @@
 
 ### :zap: Github Stats
 
-[![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight)](https://github.com/rabeebaqdas/github-readme-stats)
----
+[![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/rabeebaqdas/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rabeebaqdas&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/rabeebaqdas/github-readme-stats)
 <!-- </details> -->
 
 <details>
