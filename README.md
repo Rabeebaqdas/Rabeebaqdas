@@ -55,19 +55,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
-<!-- </details> -->
+### ✍️ Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+---
+[![](https://visitcount.itsvg.in/api?id=haris-ali9211&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--START_SECTION:activity-->
-1. 🗣 Commited on [#ab2c519](https://github.com/Rabeebaqdas/Liquidity-Pool/) in https://github.com/Rabeebaqdas/Liquidity-Pool
-
-2. 🗣 Commited on [#361cb77](https://github.com/Rabeebaqdas/NFT-Marketplace/) in https://github.com/Rabeebaqdas/NFT-Marketplace](https://github.com/Rabeebaqdas/NFT-Marketplace
-
-<!--END_SECTION:activity-->
-
-</details>
 
 [instagram]: https://www.instagram.com/rabeebaqdas/
 [linkedin]: https://www.linkedin.com/in/rabeeb-aqdas-jilani-76581521b/
@@ -78,6 +71,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
