@@ -6,7 +6,7 @@
 
 ## 🎓 Student | Software Engineer | Lifelong Learner
 
-🎓 **Currently:** Master’s student in **Intelligent Interactive Systems** at **:contentReference[oaicite:0]{index=0}**  
+🎓 **Currently:** Master’s student in **Intelligent Interactive Systems** at **Universität Bielefeld**  
 💼 **Experience:** 3+ years of professional experience as a Software Engineer  
 🌱 **Currently learning:** Artificial Intelligence, MERN Stack, and Blockchain, with a strong interest in emerging AI-driven technologies  
 🥅 **2026 Goal:** Active contributions to impactful Open Source projects  
