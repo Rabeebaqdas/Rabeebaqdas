@@ -6,12 +6,12 @@
 
 ## 🎓 Student | Developer | Lifelong Learner
 
-🎓 **Currently:** Master’s student at the University of Bielefeld  
+🎓 **Currently:** Master’s student in **Intelligent Interactive Systems** at **Universität Bielefeld**  
 🔭 **Background:** Software Engineer  
-🌱 **Currently learning:** Artificial Intelligence, MERN Stack, and Blockchain  
-🥅 **2026 Goal:** Active contributions to Open Source  
-⚡ **Fun fact:** I love solving complex problems and building things from scratch  
-📞 **Contact:** +49 175 7419907  
+🌱 **Currently learning:** Artificial Intelligence, MERN Stack, and Blockchain, with a strong interest in emerging AI-driven technologies  
+🥅 **2026 Goal:** Active contributions to Open Source projects  
+⚡ **Fun fact:** I love solving complex problems and building impactful software  
+📞 **Contact:** +49 175 7419907
 
 ---
 
