@@ -7,11 +7,12 @@
 ## I'm a Student, Developer, and Learner!
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a Blockchain Developer
-- 🌱 I’m currently learning everything 😃
-- 🥅 2026 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to code and solve problems
-- 📞 Contact: reach me at +49 1757419907
+🎓 Currently: Master’s student at the University of Bielefeld
+🔭 Background: Software Engineer
+🌱 Currently learning: Artificial Intelligence, MERN Stack, and Blockchain
+🥅 2026 Goals: Contribute to Open Source projects
+⚡ Fun fact: I love to code and solve complex problems
+📞 Contact: +49 175 7419907
 
 
 ---
