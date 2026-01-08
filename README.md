@@ -52,12 +52,14 @@
 <!-- <details> -->
   <!-- <summary>:zap: Github Stats</summary> -->
 
-### :zap: Github Stats
+### ⚡ GitHub Stats
 
-[![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/rabeebaqdas/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rabeebaqdas&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
-<br/>
+![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=rabeebaqdas&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
