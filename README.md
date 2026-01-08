@@ -7,7 +7,7 @@
 ## 🎓 Student | Developer | Lifelong Learner
 
 🎓 **Currently:** Master’s student at the University of Bielefeld  
-🔭 **Background:** Software Engineer (Blockchain-focused)  
+🔭 **Background:** Software Engineer  
 🌱 **Currently learning:** Artificial Intelligence, MERN Stack, and Blockchain  
 🥅 **2026 Goal:** Active contributions to Open Source  
 ⚡ **Fun fact:** I love solving complex problems and building things from scratch  
