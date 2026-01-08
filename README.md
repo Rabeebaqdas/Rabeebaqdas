@@ -54,11 +54,11 @@
 
 ### ⚡ GitHub Stats
 
-![Rabeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeebaqdas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=rabeebaqdas&style=flat-square)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=rabeebaqdas&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Followers](https://img.shields.io/github/followers/rabeebaqdas?label=Followers&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeebaqdas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stars](https://img.shields.io/github/stars/rabeebaqdas?label=Stars&style=flat-square)
 
 
 ### ✍️ Quote of the day
