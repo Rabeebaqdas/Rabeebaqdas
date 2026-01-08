@@ -8,10 +8,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 🎓 Currently: Master’s student at the University of Bielefeld
+
 🔭 Background: Software Engineer
+
 🌱 Currently learning: Artificial Intelligence, MERN Stack, and Blockchain
+
 🥅 2026 Goals: Contribute to Open Source projects
+
 ⚡ Fun fact: I love to code and solve complex problems
+
 📞 Contact: +49 175 7419907
 
 
