@@ -1,17 +1,18 @@
-### Hey there, I'm Rabeeb Aqdas 👋
+### Hey there, I'm Rabeeb Aqdus Jilani 👋
 
 <p align="center">
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="260px" />
 </p>
 
-## 🎓 Student | Developer | Lifelong Learner
+## 🎓 Student | Software Engineer | Lifelong Learner
 
-🎓 **Currently:** Master’s student in **Intelligent Interactive Systems** at **Universität Bielefeld**  
-🔭 **Background:** Software Engineer  
+🎓 **Currently:** Master’s student in **Intelligent Interactive Systems** at **:contentReference[oaicite:0]{index=0}**  
+💼 **Experience:** 3+ years of professional experience as a Software Engineer  
 🌱 **Currently learning:** Artificial Intelligence, MERN Stack, and Blockchain, with a strong interest in emerging AI-driven technologies  
-🥅 **2026 Goal:** Active contributions to Open Source projects  
-⚡ **Fun fact:** I love solving complex problems and building impactful software  
-📞 **Contact:** +49 175 7419907
+🥅 **2026 Goal:** Active contributions to impactful Open Source projects  
+⚡ **Fun fact:** I love solving complex problems and building scalable, intelligent systems  
+🌐 **Portfolio:** https://rabeeb-aqdas-portfolio.vercel.app/  
+📞 **Contact:** +49 175 7419907 
 
 ---
 
