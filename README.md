@@ -1,4 +1,4 @@
-### Hey there, I'm Rabeeb Aqdas <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
+### Hey there, I'm Rabeeb Aqdus <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working as a Blockchain Developer
 - 🌱 I’m currently learning everything 😃
-- 🥅 2025 Goals: Contribute to Open Source projects
+- 🥅 2026 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
-- 📞 Contact: reach me at +923112354067
+- 📞 Contact: reach me at +49 1757419907
 
 
 ---
